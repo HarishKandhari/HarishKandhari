@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-### AI Engineer  | Production ML | RAG | LLMs | AI Agents
+### AI Engineer | Data Scientist | Production ML | RAG | LLMs | AI Agents
 
 I build practical, end-to-end GenAI, machine learning systems that turn messy real-world data into reliable products, from data pipelines and modeling to deployment and monitoring.
 
