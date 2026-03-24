@@ -1,9 +1,9 @@
 #### Hello, I'm Harish Kandhari 👋 
-
+------------------------------------------------------------------------------------------------------------
 <p align="center">
 </p>
 
-#### AI Engineer | Data Scientist | Production ML | RAG | LLMs | AI Agents
+##### AI Engineer | Data Scientist | Production ML | RAG | LLMs | AI Agents
 
 I build practical, end-to-end, machine learning systems that turn real-world data into reliable products, from data pipelines and modeling to deployment and monitoring.
 
