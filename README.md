@@ -23,4 +23,4 @@ I build practical, end-to-end machine learning systems that turn real-world data
 
 
 ### Let's Connect
-[LinkedIn](https://linkedin.com/in/harishk72) [E-mail](mailto:harishk0072@gmail.com
+[LinkedIn](https://linkedin.com/in/harishk72) [E-mail](mailto:harishk0072@gmail.com)
