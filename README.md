@@ -40,13 +40,13 @@ My work spans fraud detection at scale, LLM-powered analytics tools, forecasting
 
 ---
 
-### 📈 Career Highlights
-* [cite_start]**60% Reduction in manual intervention** at Discover through custom MCP orchestration for AI agents[cite: 20].
-* [cite_start]**22% Lift in patient risk identification** at Pfizer by building end-to-end HIPAA-compliant ML pipelines[cite: 31, 29].
-* [cite_start]**3.9/4.0 GPA** in MS Data Science from UMBC[cite: 78].
+### 📈 Career Highlights]
+**60% Reduction in manual intervention** at Discover through custom MCP orchestration for AI agents[cite: 20].
+**22% Lift in patient risk identification** at Pfizer by building end-to-end HIPAA-compliant ML pipelines[cite: 31, 29].
+**3.9/4.0 GPA** in MS Data Science from UMBC[cite: 78].
 
 ---
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/harishk72)
-- 📧 [harishk0072@gmail.com](mailto:harishk0072@gmail.com)
+- 📧 [E-mail](mailto:harishk0072@gmail.com)
