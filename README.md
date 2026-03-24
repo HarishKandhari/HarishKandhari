@@ -1,5 +1,4 @@
 #### Hello, I'm Harish Kandhari 👋 
--
 <p align="center">
 </p>
 
