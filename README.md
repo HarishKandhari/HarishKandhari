@@ -5,12 +5,8 @@
 
 ### AI Engineer | Data Scientist | Production ML | RAG | LLMs | AI Agents
 
-I build practical, end-to-end GenAI, machine learning systems that turn messy real-world data into reliable products, from data pipelines and modeling to deployment and monitoring.
+I build practical, end-to-end, machine learning systems that turn messy real-world data into reliable products, from data pipelines and modeling to deployment and monitoring.
 
-* I architect **Autonomous AI Agents** and **RAG-based intelligence** for complex domains like Finance and Healthcare[cite: 4, 5]. 
-* Currently, I'm at **Discover Financial Services**, building multi-agent workflows to streamline AML case intelligence[cite: 10, 11].
-
----
 
 ### 🧰 Tech Stack
 
