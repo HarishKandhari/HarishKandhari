@@ -47,14 +47,6 @@ My work spans fraud detection at scale, LLM-powered analytics tools, forecasting
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HarishKandhari&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKandhari&layout=compact&theme=tokyonight" alt="Langs" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/harishk72)
 - 📧 [harishk0072@gmail.com](mailto:harishk0072@gmail.com)
