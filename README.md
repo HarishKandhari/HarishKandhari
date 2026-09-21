@@ -21,6 +21,3 @@ I build practical, end-to-end machine learning systems that turn real-world data
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-
-### Let's Connect
-[LinkedIn](https://linkedin.com/in/harishk72) [E-mail](mailto:harishk0072@gmail.com)
